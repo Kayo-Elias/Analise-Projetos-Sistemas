@@ -54,7 +54,7 @@ Cada questão possui sua própria modelagem de classes:
 
 ## 🖼️ Diagramas UML
 
-> 📌 Substitua os caminhos abaixo pelos seus arquivos reais no GitHub
+
 
 ### 📍 Questão 01
 <img src="imagens/questao01.png" width="600"/>
@@ -68,6 +68,26 @@ Cada questão possui sua própria modelagem de classes:
 ### 📍 Questão 04
 <img src="imagens/questao04.png" width="600"/>
 
+### 📍 Questão 05
+<img src="imagens/questao04.png" width="600"/>
+
+### 📍 Questão 06
+<img src="imagens/questao04.png" width="600"/>
+
+### 📍 Questão 07
+<img src="imagens/questao04.png" width="600"/>
+
+### 📍 Questão 08
+<img src="imagens/questao04.png" width="600"/>
+
+### 📍 Questão 09
+<img src="imagens/questao04.png" width="600"/>
+
+### 📍 Questão 10
+<img src="imagens/questao04.png" width="600"/>
+
+### 📍 Questão 11
+<img src="imagens/questao04.png" width="600"/>
 ---
 
 ## 💻 Tecnologias Utilizadas
@@ -77,19 +97,6 @@ Cada questão possui sua própria modelagem de classes:
 - Pandas 📊
 - UML (Modelagem de Sistemas) 📐
 
----
 
-## ▶️ Como Executar o Projeto
 
-```bash
-# Clonar o repositório
-git clone https://github.com/seuusuario/seurepo.git
 
-# Entrar na pasta
-cd seurepo
-
-# Instalar dependências
-pip install streamlit pandas
-
-# Rodar o projeto
-streamlit run app.py
