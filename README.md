@@ -69,25 +69,26 @@ Cada questão possui sua própria modelagem de classes:
 <img src="imagens/questao04.png" width="600"/>
 
 ### 📍 Questão 05
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao05.png" width="600"/>
 
 ### 📍 Questão 06
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao06.png" width="600"/>
 
 ### 📍 Questão 07
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao07.png" width="600"/>
 
 ### 📍 Questão 08
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao08.png" width="600"/>
 
 ### 📍 Questão 09
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao09.png" width="600"/>
 
 ### 📍 Questão 10
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao10.png" width="600"/>
 
 ### 📍 Questão 11
-<img src="imagens/questao04.png" width="600"/>
+<img src="imagens/questao11.png" width="600"/>
+
 ---
 
 ## 💻 Tecnologias Utilizadas
